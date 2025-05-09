@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="white"/>
+  <path d="M100 180C144.183 180 180 144.183 180 100C180 55.8172 144.183 20 100 20C55.8172 20 20 55.8172 20 100C20 144.183 55.8172 180 100 180Z" fill="#F4F6F8"/>
+  <path d="M100 140C124.853 140 145 119.853 145 95C145 70.1472 124.853 50 100 50C75.1472 50 55 70.1472 55 95C55 119.853 75.1472 140 100 140Z" fill="#DFE3E8"/>
+  <path d="M100 60C83.4315 60 70 73.4315 70 90C70 106.569 83.4315 120 100 120C116.569 120 130 106.569 130 90C130 73.4315 116.569 60 100 60Z" fill="#C4CDD5"/>
+  <path d="M100 120C116.569 120 130 106.569 130 90" stroke="#919EAB" stroke-width="2" stroke-linecap="round"/>
+  <path d="M70 90C70 73.4315 83.4315 60 100 60" stroke="#919EAB" stroke-width="2" stroke-linecap="round"/>
+  <path d="M150 60L160 50" stroke="#008060" stroke-width="4" stroke-linecap="round"/>
+  <path d="M150 50L160 60" stroke="#008060" stroke-width="4" stroke-linecap="round"/>
+  <path d="M40 150L50 140" stroke="#008060" stroke-width="4" stroke-linecap="round"/>
+  <path d="M40 140L50 150" stroke="#008060" stroke-width="4" stroke-linecap="round"/>
+  <path d="M120 160H80C75.5817 160 72 156.418 72 152V148H128V152C128 156.418 124.418 160 120 160Z" fill="#008060"/>
+  <path d="M128 148H72L80 120H120L128 148Z" fill="#5C6AC4"/>
+  <path d="M110 120V110C110 104.477 105.523 100 100 100C94.4772 100 90 104.477 90 110V120" stroke="white" stroke-width="2"/>
+</svg>

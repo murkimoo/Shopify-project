@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["empty-module:~/models/product.server", "empty-module:~/models/wishlist.server"],
+  "sourcesContent": ["module.exports = {};", "module.exports = {};"],
+  "mappings": ";;;;;AAAA;AAAA;AAAA,WAAO,UAAU,CAAC;AAAA;AAAA;;;ACAlB;AAAA;AAAA,WAAO,UAAU,CAAC;AAAA;AAAA;",
+  "names": []
+}

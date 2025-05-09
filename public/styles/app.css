@@ -1,0 +1,25 @@
+/* Basic reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Animation for wishlist button */
+button[type="submit"] {
+  transition: all 0.2s ease-in-out;
+}
+
+button[type="submit"]:hover {
+  transform: scale(1.05);
+}
+
+/* Animation for product cards */
+.Polaris-ResourceItem {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.Polaris-ResourceItem:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
