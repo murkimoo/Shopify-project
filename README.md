@@ -8,6 +8,7 @@ A minimal embedded Shopify app that adds a "Save for Later / Wishlist" feature t
 - Dedicated wishlist page to view saved products
 - Ability to remove items from wishlist or move them to cart
 - Session-based persistence using Remix cookies
+- Ngrok needed to tunnel the localhost urls into shopify valid public URLs
 
 ## Setup
 
